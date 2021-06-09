@@ -1,5 +1,5 @@
 # homework-1
-Given Horiseo's existing code, I refactored it to closer meet accessability standards.
+Given Horiseo's existing code, I refactored it to closer meet accessibility standards.
 
 ## What Changes Did I Make?
 * Added semantic HTML elements.
