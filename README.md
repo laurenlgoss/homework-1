@@ -1,5 +1,5 @@
 # homework-1
-Coding Bootcamp Homework 1
+Given Horiseo's existing code, I refactored it to closer meet accessability standards.
 
 ## What Changes Did I Make?
 * Added semantic HTML elements.
@@ -17,6 +17,8 @@ Coding Bootcamp Homework 1
 * Organized CSS to follow HTML structure.
 
 * Added comments in CSS.
+
+* Consolidated repetitive CSS code.
 
 ## Link to Application
 https://laurenlgoss.github.io/homework-1/
